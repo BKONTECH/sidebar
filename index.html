@@ -10,5 +10,19 @@
 
 <iframe src="sidebar.html" height="200" width="300" title="Iframe Example" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads"></iframe>
 
+<p>Click the button to put the new window in the current window.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  var myWindow = window.open("", "_self");
+  myWindow.document.write("<p>I replaced the current window.</p>");
+}
+</script>
+
+<br>
+<br>
+
 </body>
 </html>
