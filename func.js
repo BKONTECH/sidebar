@@ -7,15 +7,19 @@ function myFunction() {
 function myFunction2() {
   window.open("https://www.bkontech.com", "_self");
 }
-
+  
 function myFunction3() {
   window.open("https://www.bkontech.com", "_blank");
-}
-
+} 
+  
 function myFunction4() {
   window.open("https://www.bkontech.com", "_parent");
-}
+} 
   
 function myFunction5() {
   window.open("https://www.bkontech.com", "_top");
-}
+} 
+
+function topFunction() { 
+  window.top.location="https://www.bkontech.com"
+} 
