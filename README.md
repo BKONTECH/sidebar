@@ -87,3 +87,14 @@ Website's sidebar
 ## Web APIs
 
 [Window.postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
+
+## Stack Overflow
+
+[Where is my iframe in the published web application/sidebar?](https://stackoverflow.com/questions/63551837/where-is-my-iframe-in-the-published-web-application-sidebar)
+
+[Navigating embedded Google Apps Script iFrame from the parent](https://stackoverflow.com/questions/56400233/navigating-embedded-google-apps-script-iframe-from-the-parent?noredirect=1&lq=1)
+
+[How to navigate (link) to different google sites from an embedded google app script ? Embedding navigation bar into google site](https://stackoverflow.com/questions/69992538/how-to-navigate-link-to-different-google-sites-from-an-embedded-google-app-scr)
+
+
+
