@@ -20,6 +20,10 @@ function myFunction5() {
   window.open("https://www.bkontech.com", "_top");
 }
 
-function topFunction() { 
+function topFunction() {
   window.top.location="https://www.bkontech.com"
+}
+
+function tabFunction() {
+  browser.tabs.update="https://www.bkontech.com"
 }
