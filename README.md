@@ -63,3 +63,27 @@ Website's sidebar
 [Window open()](https://www.w3schools.com/jsref/met_win_open.asp)
 
 [Example - Window open()](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_open4)
+
+[Window top Property](https://www.w3schools.com/jsref/prop_win_top.asp)
+
+[Example - Window top Property](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_self_top)
+
+[JavaScript Window Location](https://www.w3schools.com/js/js_window_location.asp)
+
+[Example - Window Location](https://www.w3schools.com/js/tryit.asp?filename=tryjs_loc_assign)
+
+## script tag
+
+[HTML <script> Tag](https://www.w3schools.com/tags/tag_script.asp)
+
+[HTML <script> src Attribute](https://www.w3schools.com/tags/att_script_src.asp)
+
+[Example src Attribute](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_script_src)
+
+## Add-ons - Browser Extensions - JS APIs - tabs
+
+[tabs.update()](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/update)
+
+## Web APIs
+
+[Window.postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
